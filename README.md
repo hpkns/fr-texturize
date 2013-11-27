@@ -6,6 +6,7 @@ A quick and dirty plugin to get Wordpress to use proper french typography
 ## Description
 
 fr-texturize.php does two things:
+
 1. It add non-breaking spaces before “high punctuations” (i.e. :, ;, ?, and !).
 2. It replaces english apostrophes and quotation marks with the appropriate french ones.
 
